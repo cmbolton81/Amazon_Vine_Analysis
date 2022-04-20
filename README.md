@@ -35,3 +35,5 @@ The purpose of this analysis is to review writen reviews done Amazon Vine. Amazo
     
   ![nonvine1](unpaid_reviews_percentage.png)
    
+## Summary 
+After looking at the data it does not look like there is bais in the Vine program. When you look at the data it looks like they actual only give 5 stars on 42% of the compared to the non-Vine at 47%. The big thing to keep in mind here is that there is alot more non-Vine reviews than there are Vine. To take this a step further i would want to look at the number of non-Vine reviews where from the people that actual used it. We could do more filtering by the verified purchase.
