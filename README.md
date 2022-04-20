@@ -5,24 +5,24 @@ The purpose of this analysis is to review writen reviews done Amazon Vine. Amazo
   1. How many Vine reviews and non-Vine reviews there are.
     Total Vine
     ![vine](paid_reviews.png)
-    1207
+    
     
     Total non-Vine
     ![nonvine](unpaid_reviews.png)
-    97839
+    
   2. How many Vine and non-Vine reviews were 5 stars.
     Vine 5 star
     ![paid](paid_five_star_reviews.png)
-    509
+    
     
     Non-Vine 5 star
     ![nonpaid](unpaid_five_star_reviews.png)
-    45858
+    
     
   3. What percentage of Vine and non-Vine reviews were 5 stars.
     Vine 5 star percentage
-    ![vine](paid_reviews_percentage.png)
+    ![vine1](paid_reviews_percentage.png)
     
     Non-Vine 5 star percentage
-    ![nonvine](unpaid_reviews_percentage.png)
+    ![nonvine1](unpaid_reviews_percentage.png)
    
