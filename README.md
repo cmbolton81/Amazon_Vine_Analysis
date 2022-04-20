@@ -16,12 +16,12 @@ The purpose of this analysis is to review writen reviews done Amazon Vine. Amazo
     
     
     Non-Vine 5 star
-    ![nonpaid](unpaid_five_star_reviews.png)
+    ![unpaid](unpaid_five_star_reviews.png)
     
     
   3. What percentage of Vine and non-Vine reviews were 5 stars.
     Vine 5 star percentage
-    ![vine1](paid_reviews_percentage.png)
+    ![vinereviews](paid_reviews_percentage.png)
     
     Non-Vine 5 star percentage
     ![nonvine1](unpaid_reviews_percentage.png)
